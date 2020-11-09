@@ -1,3 +1,5 @@
+### Hot and cold stream
+
 ### Async versus Sync
 
 ### Lazy versus Eager
