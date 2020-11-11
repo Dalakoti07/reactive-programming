@@ -8,3 +8,6 @@
   wrapped type (for example Optional<Optional<...>> ) there is a flatMap() invocation missing somewhere.
 - A callback API not equal to stream API
 
+
+### Remaining
+- chapter 5,6 and 7
